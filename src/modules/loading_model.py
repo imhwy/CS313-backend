@@ -15,7 +15,7 @@ from transformers import (
 
 load_dotenv()
 
-MODEL_PATH = os.getenv("MODEL_PATH")
+MODEL_PATH = 'src/models'
 
 
 class Model:

@@ -9,7 +9,7 @@ import pandas as pd
 
 load_dotenv()
 
-TEENCODE_PATH = os.getenv('TEENCODE_PATH')
+TEENCODE_PATH = 'src/models/teencode.txt'
 
 
 class TextProcessor:
