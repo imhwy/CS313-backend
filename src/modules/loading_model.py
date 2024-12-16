@@ -15,7 +15,7 @@ from transformers import (
 
 load_dotenv()
 
-MODEL_PATH = 'src/models'
+MODEL_PATH = '/kaggle/input/models/pytorch/default/1'
 
 
 class Model:

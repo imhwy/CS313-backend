@@ -9,7 +9,7 @@ import pandas as pd
 
 load_dotenv()
 
-TEENCODE_PATH = 'src/models/teencode.txt'
+TEENCODE_PATH = '/kaggle/input/models/pytorch/default/1/teencode.txt'
 
 
 class TextProcessor:
